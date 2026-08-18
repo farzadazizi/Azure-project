@@ -1,0 +1,15 @@
+{
+	"name": "Dfactory-farzad",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a92ec718-bf91-4e60-8b9c-02e5a36d0afa",
+		"tenantId": "1cdd4c70-1c1a-4d49-88a5-27331aaac943"
+	}
+}
